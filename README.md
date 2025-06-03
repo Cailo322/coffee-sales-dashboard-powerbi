@@ -54,10 +54,19 @@ Total Sold = SUM(coffee_sales[quantity])
 The dashboard reveals several valuable insights:
 
 - **Spanish Latte** is the best-selling product with **272 units sold**, generating **₱1.02K** in revenue  
+  ![Spanish Latte Sales](Outputs/image1.png)
+
 - **In-store** orders contribute the highest revenue, while the **application** channel generates the least  
+  ![Order Channels Revenue](Outputs/image2.png)
+
 - The **Iced** category leads in total units sold  
+  ![Iced Category Sales](Outputs/image3.png)
+
 - **Female customers outnumber male customers**, suggesting a key customer segment  
-- Time-series visuals help track product and sales trends over time  
+  ![Customer Demographics](Outputs/image4.png)
+
+- The company needs more engagmenet in their application
+
 
 These insights demonstrate how data can guide product, marketing, and channel decisions. And there’s more to explore within the dashboard!
 
