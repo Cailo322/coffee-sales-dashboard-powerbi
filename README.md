@@ -44,6 +44,7 @@ To support insights, the following DAX measures were created:
 
 DAX
 Total Sales = SUMX(coffee_sales, coffee_sales[price] * coffee_sales[quantity])
+
 Total Sold = SUM(coffee_sales[quantity])
 
 ---
