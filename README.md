@@ -78,15 +78,6 @@ These insights demonstrate how data can guide product, marketing, and channel de
 - **Microsoft Excel** (for data preparation)  
 - **DAX (Data Analysis Expressions)**  
 
----
-
-## 📎 Screenshots
-
-*Add screenshots of your Power BI dashboard here to showcase your visuals.*
-
----
-
-## 📁 Folder Structure
 
 
 
